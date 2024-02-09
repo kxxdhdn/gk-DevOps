@@ -1,0 +1,3 @@
+[submodule "labdocker"]
+	path = labdocker
+	url = https://github.com/abfatima/labdocker.git
